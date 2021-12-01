@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded",
 					else{
 						message+=" doesn't like chinese food";
 					}
-					message+= " and usues ";
+					message+= " and uses ";
 					message+=res.numberOfDisplays;
 					message+=" displays for coding.";
 
